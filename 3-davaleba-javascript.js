@@ -91,4 +91,5 @@ console.log(sumScore(student.scores));
 
 //8. დაბეჭდეთ სტუდენტის სახელი და ასაკი
 console.log("student name: "+student.firstname + "\nstudent age: " + student.age);
+console.log("   ");
 
